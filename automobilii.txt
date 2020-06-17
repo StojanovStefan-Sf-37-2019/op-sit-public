@@ -1,0 +1,12 @@
+1|NS-789-JE|Fiat|Panda|5|Da|Benzin|Bela|165 321km|70 eura/dan
+2|NS-789-JE|Fiat|500x|5|Da|Benzin|Plava|132 103km|61 eura/dan
+3|NS-031-BV|Fiat|Tipo|4|Da|Benzin|Siva|163 133km|63 eura/dan
+4|NS-856-KE|Honda|Civiec|4|Da|Benzin|Crna|89 752km|103 eura/dan
+5|NS-059-EE|Honda|CiviecSedan|4|Da|Dizel|Crvena|145 965km|95 eura/dan
+6|NS-863-KZ|Honda|HR-V|5|Da|Benzin|Bela|132 320km|153 eura/dan
+7|NS-956-KW|Honda|CR-V|5|Da|Dizel|Crvena|76 421km|104 eura/dan
+8|NS-596-XW|Jeep|COMPASS|4|Da|Dizel|Siva|198 362km|201 eura/dan
+9|NS-643-PO|Jeep|Renegade|5|Da|Benzin|Siva|43 154km|215 eura/dan
+10|NS-087-GG|Jeep|Cherokee|5|Da|Dizel|Siva|142 873km|250 eura/dan
+11|NS-101-WP|AlfaRomeo|Giulia|4|Da|Dizel|Plava|18 873km|300 eura/dan
+12|NS-202-RR|AlfaRomeo|Giulietta|4|Da|Dizel|Crvena|22 873km|350 eura/dan
